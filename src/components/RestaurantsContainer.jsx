@@ -1,5 +1,5 @@
 import Restaurant from "./Restaurant";
-import 
+import data from "../data/data";
 //Containers are for behind the scenes logic  
 function RestaurantsContainer(props) {
   console.log(props)
