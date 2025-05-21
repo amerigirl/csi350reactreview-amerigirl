@@ -1,3 +1,4 @@
+
 function Restaurant(props) {
   //Presentational components are primarily focused on the visual appearance and styling.
   console.log(props)
